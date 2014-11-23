@@ -1,6 +1,6 @@
-# three.quaternion
+# math-quaternion
 
-Port of three.js quaternions
+Port of three.js quaternions to common.js
 
 # install
 

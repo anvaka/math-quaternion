@@ -1,5 +1,5 @@
 {
-  "name": "three.quaternion",
+  "name": "math-quaternion",
   "version": "1.0.0",
   "description": "Port of three.js quaternions",
   "main": "index.js",
